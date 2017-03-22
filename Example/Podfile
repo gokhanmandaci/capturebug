@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CaptureBugSS_Example' do
+  pod 'CaptureBugSS', :path => '../'
+
+  target 'CaptureBugSS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
