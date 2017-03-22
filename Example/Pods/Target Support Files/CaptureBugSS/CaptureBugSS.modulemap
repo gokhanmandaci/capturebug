@@ -1,0 +1,6 @@
+framework module CaptureBugSS {
+  umbrella header "CaptureBugSS-umbrella.h"
+
+  export *
+  module * { export * }
+}

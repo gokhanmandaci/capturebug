@@ -1,0 +1,16 @@
+PODS:
+  - CaptureBugSS (0.1.0)
+
+DEPENDENCIES:
+  - CaptureBugSS (from `../`)
+
+EXTERNAL SOURCES:
+  CaptureBugSS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CaptureBugSS: 641f7afba5dbebaf6d5098a4ad1686d0574f02c9
+
+PODFILE CHECKSUM: 21d621ae1be1b018b4f406e9d264b6c019d0b448
+
+COCOAPODS: 1.2.0

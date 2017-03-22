@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CaptureBugSS'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CaptureBugSS.'
+  s.summary          = 'CaptureBugSS lets user to take a screenshot of the screen, send the bug to the developer with a note and processed image.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/gokhanmandaci/CaptureBugSS'
+  s.homepage         = 'https://github.com/gokhanmandaci/capturebugss'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gokhanmandaci' => 'gokhanmandaci@gmail.com' }
