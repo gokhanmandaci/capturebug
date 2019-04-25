@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CaptureBugSS
 
 class ViewController: UIViewController {
 

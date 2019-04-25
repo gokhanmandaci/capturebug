@@ -1,9 +1,9 @@
 {
   "name": "CaptureBugSS",
   "version": "0.1.0",
-  "summary": "A short description of CaptureBugSS.",
+  "summary": "Deliver bugs.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/gokhanmandaci/CaptureBugSS",
+  "homepage": "https://github.com/gokhanmandaci/capturebug",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
